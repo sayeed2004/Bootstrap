@@ -1,0 +1,420 @@
+header {
+  background-color: #fffef9;
+  padding-top: .5em;
+}
+
+img {
+  border-radius: 5px;
+  border-style: solid;
+  border-width: thin;
+  border-color: tan;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Mr Dafoe', cursive;
+}
+
+h2 {
+  font-family: 'Poiret One', cursive;
+}
+
+header ul {
+  margin-right: 1em;
+}
+
+header a:hover,
+header a {
+  padding-top: 0rem;
+  color: inherit;
+}
+
+header p {
+  font-family: 'Poiret One', cursive;
+  letter-spacing: .15em;
+  padding-top: 0em;
+  margin-top: .75em;
+  color: #a51725;
+  font-weight: bold;
+  font-size: .97em;
+}
+
+.logo h1 {
+  color: #a51725;
+  font-size: 3em;
+}
+
+header h1{
+  padding-top: 0em;
+  color: #fffef9;
+  font-weight: 500;
+}
+
+.body-wrapper {
+  width: 100%;
+  background-color: #e0e0d1;
+}
+
+th,
+td {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+td p {
+  font-size: 1em;
+  font-weight: 400;
+  font-style: italic;
+}
+
+img.ninety {
+  width: 90%;
+}
+
+.list-inline {
+  display: inline;
+}
+
+.full-wrapper {
+  width: 100%;
+}
+
+.wrap-headline {
+  width: 100%;
+}
+
+.thumb {
+  width: 15%;
+  min-width: 10%;
+  float: left;
+  margin-top: .5em;
+  margin-right: .5em;
+}
+
+.btn-book {
+  letter-spacing: .35em;
+  border-radius: 2em;
+}
+
+.bg-tan {
+  background-color: #e0e0d1;
+}
+
+header img {
+  border-width: 0px;
+}
+
+section#above-fold {
+  background-image: url(../images/intermB.png);
+  background-size: cover;
+}
+
+section#above-fold .wrap-headline {
+  position: relative;
+  padding-top: 20%;
+  padding-bottom: 45%;
+}
+
+section#above-fold h2,
+section#above-fold h3 {
+  color: #feffef;
+}
+
+section#above-fold h2 {
+  font-size: 5em;
+  font-family: 'Mr Dafoe', cursive;
+}
+
+section#above-fold h3 {
+  font-size: 3em;
+  font-family: 'Poiret One', cursive;
+}
+
+section#above-fold hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 3px solid #a51725;
+  margin: 1em 4em;
+  padding: 0;
+}
+
+section#about {
+  background-color: #e0e0d1;
+}
+
+section#about img {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+section#about h3 {
+  margin-top: 10%;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 2.5em;
+  color: #a51725;
+}
+
+section#about h4 {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-family: 'Poiret One', cursive;
+  font-weight: 600;
+  color: #a51725;
+}
+
+section#about hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 3px solid #a51725;
+  margin: 1em 0em;
+  padding-bottom: 7%;
+  border-radius: .25em;
+}
+
+section#focus {
+  background-color: #fffef9;
+  border-top: 0.1rem solid #e9e9e9;
+  border-bottom: 0.1rem solid #e9e9e9;
+  color: #657C8E;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+section#focus hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 3px solid #a51725;
+  margin: 1em 0em;
+  padding: 0;
+  border-radius: .25em;
+}
+
+.focus-main img {
+  width: 90%;
+  margin-bottom: 15px;
+}
+
+section#focus p {
+  font-family: 'Poiret One', cursive;
+  font-weight: 600;
+  font-size: 1em;
+  color: #000;
+  width: 80%;
+  margin-left: 10%;
+}
+
+section#focus h4 {
+  font-family: 'Poiret One', cursive;
+  font-size: 1.25em;
+  font-weight: 600;
+  color: #a51725;
+}
+
+section#focus h3 {
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 2.5em;
+  color: #a51725;
+}
+
+section#focus .focus-main {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+
+section#events {
+  background-color: #fffef9;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  border-top: 0.1rem solid #e9e9e9;
+  border-bottom: 0.1rem solid #e9e9e9;
+}
+
+section#events hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 3px solid #a51725;
+  margin: 1em 0em;
+  padding: 0;
+  border-radius: .25em;
+}
+
+section#events img {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+section#events h3 {
+  margin-top: 3rem;
+  font-family: 'Mr Dafoe', cursive;
+  color: #a51725;
+  font-size: 2.5em;
+}
+
+section#events p {
+  margin-top: 1rem;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+}
+
+section#pricing {
+  background-color: #e0e0d1;
+  padding-top: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 5%;
+}
+
+section#pricing table {
+  padding-top: 5%;
+  padding-left: 0%;
+  padding-right: 0%;
+  padding-bottom: 5%;
+}
+
+section#pricing .table-responsive {
+  width: 100%;
+  margin: auto;
+}
+
+section#pricing th {
+  font-family: 'Poiret One', cursive;
+  padding-top: .75em;
+  padding-bottom: .75em;
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+section#pricing td {
+  font-size: 1.25em;
+  margin-top: 2%
+}
+
+section#pricing td a{
+  font-size: 1em;
+  padding: .5em;
+  font-family: 'Poiret One', cursive;
+  font-weight: 600;
+}
+
+section#pricing h3 {
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 2.5em;
+  color: #a51725;
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+
+section#pricing h4 {
+  font-size: 1em;
+}
+
+section#pricing h5 {
+  font-size: 1em;
+  padding: .5em;
+  font-family: 'Poiret One', cursive;
+  font-weight: 500;
+}
+
+section#pricing hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 3px solid #a51725;
+  margin: 1em 0em;
+  padding: 0;
+  border-radius: .25em;
+}
+
+section#contact {
+  font-family: 'Poiret One', cursive;
+  font-weight: 600;
+  font-size: 1.25em;
+}
+
+section#contact form {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  margin-bottom: 20px;
+  width: 100%;
+  min-width: 290px;
+  background-color: #fffef9;
+  border-radius: 8px;
+}
+
+section#contact img {
+  margin-top: 1em;
+  margin-left: 0%;
+}
+
+section#contact h3 {
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 2.5em;
+  color: #a51725;
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+
+footer {
+  background-color: #666666;
+  color: #b9a9a9;
+  margin-top: 0em;
+  margin-bottom: 0px;
+  padding-bottom: 1em;
+}
+
+footer h5 {
+  margin-top: 1em;
+  font-weight: bold;
+  font-family: 'Poiret One', cursive;
+}
+
+footer img {
+  margin-top: 1em;
+  border-color: #666666;
+}
+
+footer ul {
+  margin-bottom: 0em;
+}
+
+footer a {
+  font-size: 1em;
+  font-weight: 300;
+  color: #fff;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #FFF;
+}
+
+
+/* Small Devices, Tablets */
+   @media only screen and (min-width : 768px) {
+     section#pricing .table-responsive {
+       width: 50%;
+       margin: auto;
+     }
+
+     section#contact form {
+       padding-top: 2rem;
+       padding-bottom: 3rem;
+       padding-left: 15%;
+       width: 100%;
+       min-width: 350px;
+     }
+
+   }
+
+   /* Medium Devices, Desktops */
+ @media only screen and (min-width : 992px) {
+
+ }
